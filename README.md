@@ -15,6 +15,7 @@ Dynamic Programming Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
@@ -30,6 +31,7 @@ Dynamic Programming Questions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -38,6 +40,7 @@ Dynamic Programming Questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
 ## String
 |  |
