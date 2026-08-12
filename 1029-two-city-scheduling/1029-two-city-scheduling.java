@@ -12,4 +12,5 @@ class Solution {
         }
         return totalCost;
     }
+    //try to understand the sorting part logic
 }
