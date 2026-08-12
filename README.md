@@ -11,6 +11,7 @@ Dynamic Programming Questions
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,16 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
+## Two Pointers
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Sorting
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
