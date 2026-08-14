@@ -8,6 +8,7 @@ Dynamic Programming Questions
 | ------- |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/reach2nimit/DynamicProgramming/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/reach2nimit/DynamicProgramming/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
