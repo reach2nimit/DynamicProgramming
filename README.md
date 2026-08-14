@@ -8,6 +8,7 @@ Dynamic Programming Questions
 | ------- |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reach2nimit/DynamicProgramming/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/reach2nimit/DynamicProgramming/tree/master/0256-paint-house) |
@@ -81,6 +82,7 @@ Dynamic Programming Questions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
@@ -88,6 +90,7 @@ Dynamic Programming Questions
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 ## Hungarian Algorithm
 |  |
