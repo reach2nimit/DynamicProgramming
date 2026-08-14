@@ -14,6 +14,7 @@ Dynamic Programming Questions
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ Dynamic Programming Questions
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
+| [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
