@@ -3,35 +3,39 @@ class Solution {
         int len = barcodes.length;
         int[] result = new int[len];
 
-        Arrays.sort(barcodes);
-        int maxBarcode = 0, maxFreq = 0;
+        final int MAX_VALUE = 10000;
+        int[] count = new int[MAX_VALUE + 1];
 
-        int index = 0;
-        while(index < len){
-            int start = index;
-            while(index <len && barcodes[index] == barcodes[start]) {
-                index++;
-            }
-            int count = index - start;
+        int maxBarcode = barcodes[0];
+        int maxFreq = 0;
 
-            if(count > maxFreq){
-                maxFreq = count;
-                maxBarcode = barcodes[start];
+        for(int i = 0; i < len; i++){
+            int value = barcodes[i];
+            count[value]++;
+
+            if(count[value] > maxFreq){
+                maxFreq = count[value];
+                maxBarcode = value;
             }
         }
+
         int pos = 0;
-        for(int i = 0; i< maxFreq; i++){
+        while(count[maxBarcode]>0){
             result[pos] = maxBarcode;
             pos+=2;
+            count[maxBarcode]--;
         }
 
-        for(int j = 0; j<len; j++){
-            if(barcodes[j] == maxBarcode) continue;
-            if(pos>=len)
-                pos = 1;
-            result[pos] = barcodes[j];
-            pos+=2;
+        for( int i = 1; i<=MAX_VALUE; i++){
+            while(count[i]>0){
+                if(pos>=len)
+                    pos = 1;
+                result[pos] = i;
+                pos+=2;
+                count[i]--;
+            }
         }
+
         return result;
     }
 }
