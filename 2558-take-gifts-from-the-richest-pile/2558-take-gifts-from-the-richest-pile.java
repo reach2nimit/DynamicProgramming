@@ -12,7 +12,7 @@ class Solution {
             pq.add(val);
         
         while(k > 0){
-            int val = pq.remove();
+            int val = pq.poll();
             val = (int)Math.floor(Math.sqrt(val));
             pq.add(val);
             k--;
@@ -20,7 +20,7 @@ class Solution {
 
         long sum = 0;
         while(!pq.isEmpty()){
-            sum+=(pq.remove());
+            sum+=(pq.poll());
         }
 
         return sum;
