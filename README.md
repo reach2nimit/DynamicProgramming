@@ -20,6 +20,7 @@ Dynamic Programming Questions
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
+| [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -119,6 +120,7 @@ Dynamic Programming Questions
 | ------- |
 | [0506-relative-ranks](https://github.com/reach2nimit/DynamicProgramming/tree/master/0506-relative-ranks) |
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
+| [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
