@@ -22,6 +22,7 @@ Dynamic Programming Questions
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ Dynamic Programming Questions
 | ------- |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
@@ -81,6 +83,7 @@ Dynamic Programming Questions
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
@@ -90,6 +93,7 @@ Dynamic Programming Questions
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
 |  |
@@ -113,6 +117,7 @@ Dynamic Programming Questions
 | ------- |
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -130,4 +135,8 @@ Dynamic Programming Questions
 | ------- |
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
+## Prefix Sum
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
