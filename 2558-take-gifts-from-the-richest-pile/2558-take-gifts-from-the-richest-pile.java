@@ -9,12 +9,12 @@ class Solution {
         Queue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
         for(int val : gifts)
-            pq.offer(val);
+            pq.add(val);
         
         while(k > 0){
             int val = pq.remove();
             val = (int)Math.floor(Math.sqrt(val));
-            pq.offer(val);
+            pq.add(val);
             k--;
         }
 
