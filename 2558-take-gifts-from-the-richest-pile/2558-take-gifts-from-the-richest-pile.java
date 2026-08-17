@@ -13,7 +13,7 @@ class Solution {
         
         while(k > 0){
             int val = pq.poll();
-            val = (int)Math.floor(Math.sqrt(val));
+            val = (int)Math.sqrt(val);
             pq.add(val);
             k--;
         }
