@@ -26,6 +26,7 @@ Dynamic Programming Questions
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Dynamic Programming Questions
 | [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Counting
 |  |
 | ------- |
@@ -144,4 +146,8 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Simulation
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
