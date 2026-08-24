@@ -7,6 +7,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reach2nimit/DynamicProgramming/tree/master/0057-insert-interval) |
@@ -150,4 +151,8 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
