@@ -36,6 +36,7 @@ Dynamic Programming Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
@@ -71,6 +72,7 @@ Dynamic Programming Questions
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
 ## Two Pointers
 |  |
@@ -156,5 +158,10 @@ Dynamic Programming Questions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
