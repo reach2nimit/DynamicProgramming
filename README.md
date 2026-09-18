@@ -7,6 +7,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/reach2nimit/DynamicProgramming/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
@@ -122,6 +123,7 @@ Dynamic Programming Questions
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 ## Heap (Priority Queue)
 |  |
@@ -162,6 +164,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 ## Bracket Sequences
@@ -171,5 +174,14 @@ Dynamic Programming Questions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
