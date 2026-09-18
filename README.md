@@ -12,6 +12,7 @@ Dynamic Programming Questions
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reach2nimit/DynamicProgramming/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/reach2nimit/DynamicProgramming/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
@@ -73,6 +74,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
 ## Two Pointers
 |  |
@@ -137,6 +139,7 @@ Dynamic Programming Questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -160,8 +163,13 @@ Dynamic Programming Questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
