@@ -18,8 +18,8 @@ class Solution {
 
                             if(solver(board))
                                 return true;
-                            
-                            board[i][j] = '.';
+                            else
+                                board[i][j] = '.';
                         }
                     }
 
