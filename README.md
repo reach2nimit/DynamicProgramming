@@ -187,4 +187,8 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/reach2nimit/DynamicProgramming/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
