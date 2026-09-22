@@ -33,6 +33,7 @@ Dynamic Programming Questions
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/reach2nimit/DynamicProgramming/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Dynamic Programming Questions
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/reach2nimit/DynamicProgramming/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
