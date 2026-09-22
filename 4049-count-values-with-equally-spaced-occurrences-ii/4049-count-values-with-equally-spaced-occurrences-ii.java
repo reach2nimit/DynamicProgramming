@@ -17,13 +17,15 @@ class Solution {
             
             int diff = (indexList.get(1) - indexList.get(0));
             
-            int localCount = 1;
+            boolean valid = true;
             for(int i = 2; i<indexList.size(); i++){
-                if((indexList.get(i) - indexList.get(i-1)) == diff)
-                    localCount++;
+                if((indexList.get(i) - indexList.get(i-1)) != diff){
+                    valid = false;
+                    break;
+                }
             }
 
-            if(localCount == indexList.size()-1)
+            if(valid)
                 count++;
         }
 
