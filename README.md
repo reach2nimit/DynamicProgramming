@@ -32,6 +32,7 @@ Dynamic Programming Questions
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/reach2nimit/DynamicProgramming/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/reach2nimit/DynamicProgramming/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Binary Search
@@ -65,6 +66,7 @@ Dynamic Programming Questions
 | ------- |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/reach2nimit/DynamicProgramming/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Recursion
 |  |
 | ------- |
