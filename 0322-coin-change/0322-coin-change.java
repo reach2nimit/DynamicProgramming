@@ -5,7 +5,7 @@ class Solution {
             return 0;
         
         int[] dp = new int[amount+1];
-        Arrays.fill(dp, amount+1);
+        Arrays.fill(dp, amount+1); // it must be filled with large value as we use math min
 
         dp[0] = 0;
 
