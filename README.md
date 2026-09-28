@@ -21,6 +21,7 @@ Dynamic Programming Questions
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/reach2nimit/DynamicProgramming/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -57,6 +58,7 @@ Dynamic Programming Questions
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -187,6 +189,7 @@ Dynamic Programming Questions
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/reach2nimit/DynamicProgramming/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -213,10 +216,15 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
