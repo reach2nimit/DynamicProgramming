@@ -52,6 +52,7 @@ Dynamic Programming Questions
 | [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/reach2nimit/DynamicProgramming/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
@@ -81,6 +82,7 @@ Dynamic Programming Questions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/reach2nimit/DynamicProgramming/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -242,4 +244,8 @@ Dynamic Programming Questions
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
