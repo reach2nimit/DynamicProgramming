@@ -13,13 +13,14 @@ class Solution {
 
         for(int num : nums){
             for(int i = target; i>=num; i--){
-
+                
+                
                 if(dp[i]) continue;
-                if(dp[i-target]) dp[i] = true;
+                if(dp[i-num]) dp[i] = true;
                 if(dp[target])
                     return true;
+                
             }
-
         } 
         return false;
     }
