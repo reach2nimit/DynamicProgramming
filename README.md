@@ -15,6 +15,7 @@ Dynamic Programming Questions
 | [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/reach2nimit/DynamicProgramming/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/reach2nimit/DynamicProgramming/tree/master/0256-paint-house) |
@@ -55,6 +56,7 @@ Dynamic Programming Questions
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/reach2nimit/DynamicProgramming/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
@@ -211,6 +213,7 @@ Dynamic Programming Questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
