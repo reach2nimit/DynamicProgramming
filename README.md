@@ -64,6 +64,7 @@ Dynamic Programming Questions
 | [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
@@ -99,6 +100,7 @@ Dynamic Programming Questions
 | [0072-edit-distance](https://github.com/reach2nimit/DynamicProgramming/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
+| [0583-delete-operation-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Two Pointers
 |  |
@@ -238,5 +240,6 @@ Dynamic Programming Questions
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
