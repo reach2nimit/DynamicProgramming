@@ -1,7 +1,6 @@
 class Solution {
     public int[][] spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
         
-        int[][] directionMap = {{0,1}, {1,0}, {0,-1}, {-1,0} };
         int[][] result = new int[rows*cols][2];
 
         int steps = 1; 
