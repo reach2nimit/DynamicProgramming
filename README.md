@@ -80,6 +80,7 @@ Dynamic Programming Questions
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/reach2nimit/DynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/reach2nimit/DynamicProgramming/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/reach2nimit/DynamicProgramming/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0416-partition-equal-subset-sum) |
@@ -284,4 +285,8 @@ Dynamic Programming Questions
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/reach2nimit/DynamicProgramming/tree/master/0354-russian-doll-envelopes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/reach2nimit/DynamicProgramming/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
