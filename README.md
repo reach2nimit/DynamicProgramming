@@ -38,6 +38,7 @@ Dynamic Programming Questions
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -80,6 +81,7 @@ Dynamic Programming Questions
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -223,6 +225,7 @@ Dynamic Programming Questions
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Algorithm X
 |  |
 | ------- |
