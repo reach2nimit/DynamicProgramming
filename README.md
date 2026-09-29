@@ -52,6 +52,7 @@ Dynamic Programming Questions
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
+| [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -227,6 +228,7 @@ Dynamic Programming Questions
 | [0059-spiral-matrix-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
+| [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/reach2nimit/DynamicProgramming/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Backtracking
 |  |
@@ -256,6 +258,7 @@ Dynamic Programming Questions
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
 ## Algorithm X
 |  |
 | ------- |
@@ -269,6 +272,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/reach2nimit/DynamicProgramming/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
 ## Knapsack Problem
 |  |
 | ------- |
