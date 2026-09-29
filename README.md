@@ -41,6 +41,7 @@ Dynamic Programming Questions
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -54,6 +55,7 @@ Dynamic Programming Questions
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/reach2nimit/DynamicProgramming/tree/master/0354-russian-doll-envelopes) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Dynamic Programming Questions
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -135,6 +138,7 @@ Dynamic Programming Questions
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
