@@ -10,6 +10,7 @@ Dynamic Programming Questions
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/reach2nimit/DynamicProgramming/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/reach2nimit/DynamicProgramming/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/reach2nimit/DynamicProgramming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
@@ -107,6 +108,7 @@ Dynamic Programming Questions
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/reach2nimit/DynamicProgramming/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
@@ -235,6 +237,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/reach2nimit/DynamicProgramming/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
