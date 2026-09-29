@@ -33,6 +33,7 @@ Dynamic Programming Questions
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
+| [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
@@ -78,6 +79,7 @@ Dynamic Programming Questions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Indexed Tree
 |  |
@@ -220,6 +222,7 @@ Dynamic Programming Questions
 | [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
+| [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
