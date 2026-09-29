@@ -4,33 +4,54 @@ class Solution {
         int[][] directionMap = {{0,1}, {1,0}, {0,-1}, {-1,0} };
         int[][] result = new int[rows*cols][2];
 
-        int steps = 0, len = 0;
-        int direction = 0;
-
+        int steps = 1; 
         result[0] = new int[]{rStart, cStart};
-        int count = 1;
+        int count = 1, total = rows * cols;
 
-        while(count < rows * cols){
+        int curRow = rStart;
+        int curCol = cStart;
 
-            if(direction ==0 || direction == 2)
-                steps++;
-            
-            for(int i = 0; i < steps; i++){
+        while(count < total){
 
-                rStart += directionMap[direction][0];
-                cStart += directionMap[direction][1];
+            for(int i = 0; i < steps && count < total; i++){
+                curCol++;
 
-                if(rStart>=0 && rStart < rows && cStart>=0 && cStart < cols){
-                    result[count] = new int[]{rStart, cStart};
+                if(curRow >= 0 && curCol >= 0 && curRow < rows && curCol < cols){
+                    result[count] = new int[]{curRow, curCol};
                     count++;
                 }
-
-                if(count == rows * cols)
-                    return result;
-
             }
-        
-            direction = (direction + 1)%4;
+
+            for(int i = 0; i < steps && count < total; i++){
+                curRow++;
+
+                if(curRow >= 0 && curCol >= 0 && curRow < rows && curCol < cols){
+                    result[count] = new int[]{curRow, curCol};
+                    count++;
+                }
+            }
+
+            steps++;
+
+            for(int i = 0; i < steps && count < total; i++){
+                curCol--;
+
+                if(curRow >= 0 && curCol >= 0 && curRow < rows && curCol < cols){
+                    result[count] = new int[]{curRow, curCol};
+                    count++;
+                }
+            }
+
+            for(int i = 0; i < steps && count < total; i++){
+                curRow--;
+
+                if(curRow >= 0 && curCol >= 0 && curRow < rows && curCol < cols){
+                    result[count] = new int[]{curRow, curCol};
+                    count++;
+                }
+            }
+
+            steps++;
         }
 
         return result;
