@@ -42,6 +42,7 @@ Dynamic Programming Questions
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
+| [0845-longest-mountain-in-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0845-longest-mountain-in-array) |
 | [0867-transpose-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
@@ -100,6 +101,7 @@ Dynamic Programming Questions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -143,6 +145,7 @@ Dynamic Programming Questions
 | ------- |
 | [0031-next-permutation](https://github.com/reach2nimit/DynamicProgramming/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
+| [0845-longest-mountain-in-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0845-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/reach2nimit/DynamicProgramming/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -313,4 +316,8 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/reach2nimit/DynamicProgramming/tree/master/0338-counting-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
