@@ -25,6 +25,7 @@ Dynamic Programming Questions
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/reach2nimit/DynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0256-paint-house](https://github.com/reach2nimit/DynamicProgramming/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/reach2nimit/DynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -221,6 +222,7 @@ Dynamic Programming Questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/reach2nimit/DynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Simulation
 |  |
