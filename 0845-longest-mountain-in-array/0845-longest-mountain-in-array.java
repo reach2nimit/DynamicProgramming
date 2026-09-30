@@ -9,12 +9,12 @@ class Solution {
                 int local = 3;
                 int left = i-1, right = i+1;
 
-                while(left - 1 >=0 &&  arr[left]>arr[left-1]  ){
+                while(left >0 &&  arr[left]>arr[left-1]  ){
                     left = left - 1;
                     local++;
                 }
 
-                while(right + 1 < n && arr[right]>arr[right+1]){
+                while(right < n-1 && arr[right]>arr[right+1]){
                     right = right + 1;
                     local++;
                 }
