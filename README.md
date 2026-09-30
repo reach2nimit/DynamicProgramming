@@ -47,6 +47,7 @@ Dynamic Programming Questions
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
+| [0989-add-to-array-form-of-integer](https://github.com/reach2nimit/DynamicProgramming/tree/master/0989-add-to-array-form-of-integer) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
@@ -122,6 +123,7 @@ Dynamic Programming Questions
 | [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/reach2nimit/DynamicProgramming/tree/master/0989-add-to-array-form-of-integer) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/reach2nimit/DynamicProgramming/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Recursion
 |  |
