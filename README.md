@@ -36,6 +36,7 @@ Dynamic Programming Questions
 | [0354-russian-doll-envelopes](https://github.com/reach2nimit/DynamicProgramming/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/reach2nimit/DynamicProgramming/tree/master/0498-diagonal-traverse) |
@@ -180,6 +181,7 @@ Dynamic Programming Questions
 | [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0088-merge-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/reach2nimit/DynamicProgramming/tree/master/0354-russian-doll-envelopes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/reach2nimit/DynamicProgramming/tree/master/0506-relative-ranks) |
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
@@ -204,6 +206,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/reach2nimit/DynamicProgramming/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
