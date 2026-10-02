@@ -19,6 +19,7 @@ Dynamic Programming Questions
 | [0059-spiral-matrix-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/reach2nimit/DynamicProgramming/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/reach2nimit/DynamicProgramming/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -121,6 +122,7 @@ Dynamic Programming Questions
 | [0043-multiply-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/reach2nimit/DynamicProgramming/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/reach2nimit/DynamicProgramming/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/reach2nimit/DynamicProgramming/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
