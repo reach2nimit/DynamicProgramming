@@ -47,6 +47,7 @@ Dynamic Programming Questions
 | [0506-relative-ranks](https://github.com/reach2nimit/DynamicProgramming/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-employee-free-time](https://github.com/reach2nimit/DynamicProgramming/tree/master/0759-employee-free-time) |
@@ -241,6 +242,7 @@ Dynamic Programming Questions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -251,6 +253,7 @@ Dynamic Programming Questions
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 ## Sweep Line
@@ -303,6 +306,7 @@ Dynamic Programming Questions
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/reach2nimit/DynamicProgramming/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
@@ -404,4 +408,5 @@ Dynamic Programming Questions
 | ------- |
 | [0130-surrounded-regions](https://github.com/reach2nimit/DynamicProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
