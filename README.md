@@ -152,6 +152,7 @@ Dynamic Programming Questions
 | [0072-edit-distance](https://github.com/reach2nimit/DynamicProgramming/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
+| [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Two Pointers
@@ -233,6 +234,7 @@ Dynamic Programming Questions
 | ------- |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
@@ -274,6 +276,7 @@ Dynamic Programming Questions
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/reach2nimit/DynamicProgramming/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
@@ -363,12 +366,14 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
