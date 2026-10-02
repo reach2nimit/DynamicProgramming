@@ -21,6 +21,7 @@ Dynamic Programming Questions
 | [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/reach2nimit/DynamicProgramming/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/reach2nimit/DynamicProgramming/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
@@ -152,6 +153,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/reach2nimit/DynamicProgramming/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0845-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
@@ -173,6 +175,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/reach2nimit/DynamicProgramming/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0088-merge-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/reach2nimit/DynamicProgramming/tree/master/0354-russian-doll-envelopes) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/reach2nimit/DynamicProgramming/tree/master/0506-relative-ranks) |
