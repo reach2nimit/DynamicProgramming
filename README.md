@@ -25,6 +25,7 @@ Dynamic Programming Questions
 | [0088-merge-sorted-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/reach2nimit/DynamicProgramming/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/reach2nimit/DynamicProgramming/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
@@ -235,6 +236,7 @@ Dynamic Programming Questions
 | ------- |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/reach2nimit/DynamicProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
@@ -245,6 +247,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/reach2nimit/DynamicProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -296,6 +299,7 @@ Dynamic Programming Questions
 | [0063-unique-paths-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/reach2nimit/DynamicProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/reach2nimit/DynamicProgramming/tree/master/0498-diagonal-traverse) |
@@ -398,5 +402,6 @@ Dynamic Programming Questions
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/reach2nimit/DynamicProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
