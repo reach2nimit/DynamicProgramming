@@ -121,6 +121,7 @@ Dynamic Programming Questions
 | [0043-multiply-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/reach2nimit/DynamicProgramming/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/reach2nimit/DynamicProgramming/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/reach2nimit/DynamicProgramming/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/reach2nimit/DynamicProgramming/tree/master/0989-add-to-array-form-of-integer) |
@@ -139,6 +140,7 @@ Dynamic Programming Questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/reach2nimit/DynamicProgramming/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/reach2nimit/DynamicProgramming/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/reach2nimit/DynamicProgramming/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/reach2nimit/DynamicProgramming/tree/master/0091-decode-ways) |
@@ -237,6 +239,7 @@ Dynamic Programming Questions
 | [0043-multiply-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/reach2nimit/DynamicProgramming/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/reach2nimit/DynamicProgramming/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
@@ -320,6 +323,7 @@ Dynamic Programming Questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/reach2nimit/DynamicProgramming/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/reach2nimit/DynamicProgramming/tree/master/0338-counting-bits) |
 ## Enumeration
 |  |
