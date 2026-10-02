@@ -29,6 +29,7 @@ Dynamic Programming Questions
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/reach2nimit/DynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0256-paint-house](https://github.com/reach2nimit/DynamicProgramming/tree/master/0256-paint-house) |
+| [0287-find-the-duplicate-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/reach2nimit/DynamicProgramming/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
@@ -68,6 +69,7 @@ Dynamic Programming Questions
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/reach2nimit/DynamicProgramming/tree/master/0354-russian-doll-envelopes) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -154,6 +156,7 @@ Dynamic Programming Questions
 | ------- |
 | [0031-next-permutation](https://github.com/reach2nimit/DynamicProgramming/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/reach2nimit/DynamicProgramming/tree/master/0455-assign-cookies) |
 | [0845-longest-mountain-in-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0845-longest-mountain-in-array) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
@@ -329,9 +332,18 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/reach2nimit/DynamicProgramming/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/reach2nimit/DynamicProgramming/tree/master/0338-counting-bits) |
 ## Enumeration
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0845-longest-mountain-in-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
