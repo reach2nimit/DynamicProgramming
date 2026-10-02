@@ -27,6 +27,7 @@ Dynamic Programming Questions
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/reach2nimit/DynamicProgramming/tree/master/0238-product-of-array-except-self) |
 | [0256-paint-house](https://github.com/reach2nimit/DynamicProgramming/tree/master/0256-paint-house) |
@@ -234,6 +235,7 @@ Dynamic Programming Questions
 | ------- |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -243,6 +245,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -293,6 +296,7 @@ Dynamic Programming Questions
 | [0063-unique-paths-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/reach2nimit/DynamicProgramming/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/reach2nimit/DynamicProgramming/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0867-transpose-matrix) |
@@ -391,4 +395,8 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
