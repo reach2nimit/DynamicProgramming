@@ -8,6 +8,7 @@ Dynamic Programming Questions
 | ------- |
 | [0031-next-permutation](https://github.com/reach2nimit/DynamicProgramming/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/reach2nimit/DynamicProgramming/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/reach2nimit/DynamicProgramming/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/reach2nimit/DynamicProgramming/tree/master/0048-rotate-image) |
@@ -206,6 +207,7 @@ Dynamic Programming Questions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/reach2nimit/DynamicProgramming/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/reach2nimit/DynamicProgramming/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
