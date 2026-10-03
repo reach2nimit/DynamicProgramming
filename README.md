@@ -57,6 +57,7 @@ Dynamic Programming Questions
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [0986-interval-list-intersections](https://github.com/reach2nimit/DynamicProgramming/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/reach2nimit/DynamicProgramming/tree/master/0989-add-to-array-form-of-integer) |
+| [1020-number-of-enclaves](https://github.com/reach2nimit/DynamicProgramming/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
@@ -244,6 +245,7 @@ Dynamic Programming Questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/reach2nimit/DynamicProgramming/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -256,6 +258,7 @@ Dynamic Programming Questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/reach2nimit/DynamicProgramming/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 ## Sweep Line
@@ -312,6 +315,7 @@ Dynamic Programming Questions
 | [0867-transpose-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/reach2nimit/DynamicProgramming/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
 ## Algorithm X
@@ -412,6 +416,7 @@ Dynamic Programming Questions
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/reach2nimit/DynamicProgramming/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
