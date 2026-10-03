@@ -242,6 +242,7 @@ Dynamic Programming Questions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/reach2nimit/DynamicProgramming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
@@ -253,6 +254,7 @@ Dynamic Programming Questions
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
@@ -408,5 +410,10 @@ Dynamic Programming Questions
 | ------- |
 | [0130-surrounded-regions](https://github.com/reach2nimit/DynamicProgramming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
