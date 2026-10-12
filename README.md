@@ -61,6 +61,7 @@ Dynamic Programming Questions
 | [1029-two-city-scheduling](https://github.com/reach2nimit/DynamicProgramming/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/reach2nimit/DynamicProgramming/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/reach2nimit/DynamicProgramming/tree/master/1054-distant-barcodes) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
@@ -263,6 +264,7 @@ Dynamic Programming Questions
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/reach2nimit/DynamicProgramming/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/reach2nimit/DynamicProgramming/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
@@ -321,6 +323,7 @@ Dynamic Programming Questions
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
 | [0931-minimum-falling-path-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0931-minimum-falling-path-sum) |
 | [1020-number-of-enclaves](https://github.com/reach2nimit/DynamicProgramming/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
