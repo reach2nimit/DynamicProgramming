@@ -46,6 +46,7 @@ Dynamic Programming Questions
 | [0498-diagonal-traverse](https://github.com/reach2nimit/DynamicProgramming/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/reach2nimit/DynamicProgramming/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/reach2nimit/DynamicProgramming/tree/master/0740-delete-and-earn) |
@@ -110,6 +111,7 @@ Dynamic Programming Questions
 | [0494-target-sum](https://github.com/reach2nimit/DynamicProgramming/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/reach2nimit/DynamicProgramming/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/reach2nimit/DynamicProgramming/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/reach2nimit/DynamicProgramming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -260,6 +262,7 @@ Dynamic Programming Questions
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/reach2nimit/DynamicProgramming/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/reach2nimit/DynamicProgramming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/reach2nimit/DynamicProgramming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/reach2nimit/DynamicProgramming/tree/master/0841-keys-and-rooms) |
@@ -318,6 +321,7 @@ Dynamic Programming Questions
 | [0200-number-of-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/reach2nimit/DynamicProgramming/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/reach2nimit/DynamicProgramming/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/reach2nimit/DynamicProgramming/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/0885-spiral-matrix-iii) |
