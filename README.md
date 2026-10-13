@@ -68,6 +68,7 @@ Dynamic Programming Questions
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/reach2nimit/DynamicProgramming/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/reach2nimit/DynamicProgramming/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1765-map-of-highest-peak](https://github.com/reach2nimit/DynamicProgramming/tree/master/1765-map-of-highest-peak) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/reach2nimit/DynamicProgramming/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/reach2nimit/DynamicProgramming/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -271,6 +272,7 @@ Dynamic Programming Questions
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/reach2nimit/DynamicProgramming/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/reach2nimit/DynamicProgramming/tree/master/1306-jump-game-iii) |
+| [1765-map-of-highest-peak](https://github.com/reach2nimit/DynamicProgramming/tree/master/1765-map-of-highest-peak) |
 ## Sweep Line
 |  |
 | ------- |
@@ -330,6 +332,7 @@ Dynamic Programming Questions
 | [1091-shortest-path-in-binary-matrix](https://github.com/reach2nimit/DynamicProgramming/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/reach2nimit/DynamicProgramming/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/reach2nimit/DynamicProgramming/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1765-map-of-highest-peak](https://github.com/reach2nimit/DynamicProgramming/tree/master/1765-map-of-highest-peak) |
 | [2326-spiral-matrix-iv](https://github.com/reach2nimit/DynamicProgramming/tree/master/2326-spiral-matrix-iv) |
 ## Algorithm X
 |  |
